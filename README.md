@@ -1,4 +1,4 @@
-Mobile app in flutter for internship test
+Mobile app in flutter for kuraz internship test
 
 # 📝 Flutter To-Do List App
 
